@@ -1,16 +1,12 @@
-# Hi, I'm Suhani 👋
+Hi, I'm Suhani 👋
 
 🎓 Engineering Student passionate about software development
 
-💻 MERN Stack Developer (MongoDB, Express.js, React, Node.js)
-
-🧩 Solving Data Structures and Algorithms problems to strengthen problem-solving skills
+💻 MERN Stack Developer (MongoDB, Express.js, Node.js)
 
 🌱 Currently exploring advanced React concepts and backend development
 
-🚀 Building full-stack web applications 
-
-📚 Consistently practicing DSA and improving coding efficiency
+🚀 Building full-stack web applications and continuously improving my development skills
 
 📫 Reach me: patilsuhani912@gmail.com
 
